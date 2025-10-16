@@ -1,8 +1,8 @@
 ### 🧑‍💻 About Me
 
-I'm a rising Junior at the University of Rochester studying Computer Science. I'm very self-motivated, passionate about learning new tools/frameworks, and picking up new ideas very quickly. 
+I'm a senior at the University of Rochester studying Computer Science. I'm very self-motivated, passionate about learning new tools/frameworks, and picking up new ideas very quickly. 
 
-My interests are in computer systems/architecture, mixed reality, and computer vision.
+My interests are in computer systems/architecture, compilers, and artificial intelligence.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
